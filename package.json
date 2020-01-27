@@ -1,0 +1,29 @@
+{
+  "name": "smoon",
+  "version": "0.0.1",
+  "description": "Smoon is a smooth CSS animation library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/takashi0602/smoon.git"
+  },
+  "keywords": [
+    "css",
+    "sass",
+    "animation",
+    "ui",
+    "ux",
+    "smooth",
+    "moon",
+    "Natsume Soseki"
+  ],
+  "author": "Takashi <takashioicsn@gmail.com> (https://twitter.com/takashimelon)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/takashi0602/smoon/issues"
+  },
+  "homepage": "https://github.com/takashi0602/smoon#readme"
+}
