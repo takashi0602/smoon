@@ -1,7 +1,5 @@
 # Smoon
-
-## Description
-🌕Smoon is a smooth CSS animation library🌕
+🌕 Smoon is a smooth CSS animation library 🌕
 
 ## Install
 ```bash
