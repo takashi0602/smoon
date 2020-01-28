@@ -1,0 +1,27 @@
+/**
+ * Variables
+ *
+ * Define variables.
+ */
+/**
+ * Base
+ *
+ * Normalization of HTML elements.
+ */
+*, *::before, *::after {
+  box-sizing: border-box;
+  font-size: 16px; }
+
+body {
+  margin: 0; }
+
+/**
+ * Forms
+ *
+ * Import the SCSS file under the forms directory.
+ */
+/**
+ * Form type="text"
+ *
+ * Define text attribute of Input tag.
+ */

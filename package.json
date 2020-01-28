@@ -4,7 +4,9 @@
   "description": "Smoon is a smooth CSS animation library.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build-css": "node-sass scss/smoon.scss dist/css/smoon.css",
+    "watch-css": "nodemon -e scss -x 'npm run build-css'",
+    "minify-css": "cleancss -o dist/css/smoon.min.css dist/css/smoon.css"
   },
   "repository": {
     "type": "git",
