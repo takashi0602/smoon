@@ -32,5 +32,9 @@
     "clean-css-cli": "^4.3.0",
     "node-sass": "^4.13.1",
     "nodemon": "^2.0.2"
-  }
+  },
+  "files": [
+    "dist/{css}/*.{css,map}",
+    "scss/**/*.scss"
+  ]
 }
