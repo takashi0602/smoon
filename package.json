@@ -34,7 +34,7 @@
     "nodemon": "^2.0.2"
   },
   "files": [
-    "dist/{css}/*.{css,map}",
+    "dist/css/*.{css,map}",
     "scss/**/*.scss"
   ]
 }
