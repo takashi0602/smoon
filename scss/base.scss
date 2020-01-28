@@ -1,0 +1,12 @@
+/**
+ * Base
+ *
+ * Normalization of HTML elements.
+ */
+*, *::before, *::after {
+  box-sizing: border-box;
+  font-size: $font-size-base;
+}
+body {
+  margin: 0;
+}
