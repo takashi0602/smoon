@@ -1,6 +1,6 @@
 {
   "name": "smoon",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Smoon is a smooth CSS animation library.",
   "main": "index.js",
   "scripts": {
