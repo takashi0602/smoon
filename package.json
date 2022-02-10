@@ -30,7 +30,7 @@
   "homepage": "https://github.com/takashi0602/smoon#readme",
   "devDependencies": {
     "clean-css-cli": "^4.3.0",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "nodemon": "^2.0.2"
   },
   "files": [
